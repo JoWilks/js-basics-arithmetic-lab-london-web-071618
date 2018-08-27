@@ -10,7 +10,8 @@ You should NOT try to redefine any of the above variables.
 
 let newID = 1000000000 + oldID;
 
-if (typeof currentAge === integer) {ageIsValid = true}
+if (typeof currentAge === integer) {
+  ageIsValid = true}
 Math.round(currentAge);
 
 randomNumber = Math.random()*20;
