@@ -12,7 +12,7 @@ let newID = 1000000000 + oldID;
 
 let ageIsValid
 
-if (Numberis') {
+if (Number.isInteger(currentAge)) {
   ageIsValid = true} else {
   ageIsValid = false
   }
