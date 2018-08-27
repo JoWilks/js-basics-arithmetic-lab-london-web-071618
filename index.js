@@ -14,8 +14,7 @@ if (typeof currentAge === integer) {
   ageIsValid = true} else {
   ageIsValid = false
   }
-Math.round(currentAge);
-
+  
 randomNumber = Math.random()*20;
 
 randomInteger = Math.floor(randomNumber)
